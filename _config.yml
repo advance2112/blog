@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+include: ["_pages"]
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-US"
 
