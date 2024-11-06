@@ -19,13 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mark West
+name: Mark West
+title-separator: ">"
 email: markdavidwest01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Mark's portfolio and blog!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Welcome to Mark's portfolio and blog! Here you'll find everything he's up to, including (but not limited to) games he makes, music he makes, maybe the occassional review, and all sorts of other fun stuff.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://advance2112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  advance2112
+repository: advance2112/advance-blog
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
