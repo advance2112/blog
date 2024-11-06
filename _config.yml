@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mark West
-name: Mark West
+#title: Mark West
+name: Advance
 title-separator: ">"
 email: markdavidwest01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
