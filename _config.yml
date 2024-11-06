@@ -36,8 +36,20 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-US"
+
+collections:
+  games:
+    output: true
+    permalink: /:collection/:path/
+  music:
+    output: true
+    permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
+
 
 defaults:
   # _posts
@@ -45,8 +57,43 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       show_date: true
       read_time: true
+      author_profile: true
+  # _games
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      author_profile: true
+  # _music
+  - scope:
+      path: ""
+      type: music
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      author_profile: true
+  # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
       author_profile: true
 
 enable_copy_code_button: true
@@ -58,7 +105,7 @@ atom_feed:
 author:
   name     : "Mark West"
   # avatar   : "/assets/images/bio-photo.jpg"
-  # bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "Aspiring game developer and a man of too many interests."
   location : "Ohio, USA"
   links:
   - label: "GitHub"
@@ -67,13 +114,16 @@ author:
   - label: "itch.io"
     icon: "fab fa-brands fa-itch-io"
     url: "https://advance2112.itch.io"
+    #linkdin
+    #soundcloud
+    #youtube (maybe)
 
 footer:
   links:
-  - label: "GitHub"
+  - label: ""
     icon: "fab fa-fw fa-github"
     url: "https://github.com/advance2112"
-  - label: "itch.io"
+  - label: ""
     icon: "fab fa-brands fa-itch-io"
     url: "https://advance2112.itch.io"
 # Exclude from processing.
