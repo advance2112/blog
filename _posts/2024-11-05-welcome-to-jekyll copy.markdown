@@ -7,11 +7,13 @@ categories: update
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Game doe
-<iframe frameborder="0" src="https://itch.io/embed/3043655" width="552" height="167"><a href="https://advance2112.itch.io/sufferer">SUFFER.er by Advance2112</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3043655?linkback=true&amp;bg_color=1b291f&amp;fg_color=4aff37&amp;link_color=cfffc9&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/sufferer">SUFFER.er by Advance2112</a></iframe>
 
 then more game??
-<iframe frameborder="0" src="https://itch.io/embed-upload/11776254?color=000000" allowfullscreen="" width="1024" height="768"><a href="https://advance2112.itch.io/sufferer">Play SUFFER.er on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2989752?linkback=true&amp;bg_color=5f5f5f&amp;fg_color=ffffff&amp;link_color=655845&amp;border_color=5f5f5f" width="552" height="167"><a href="https://advance2112.itch.io/the-tower-of-babel">The Tower of Babel by Advance2112, ArcadeCrow, purplewazard</a></iframe>
 
+one morree?????
+<iframe frameborder="0" src="https://itch.io/embed/2855879?linkback=true&amp;bg_color=992d17&amp;fg_color=ffffff&amp;link_color=ff970d&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/moon-viewing">Moon Viewing by Advance2112, DeveloperChipmunk, Cache31522</a></iframe>
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
