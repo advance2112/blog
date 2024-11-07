@@ -105,10 +105,10 @@ atom_feed:
 
 author:
   name     : "Mark West"
-  # avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/Mark West Photo.jpg"
   bio      : >-
-   "A.K.A Advance/Advance2112
-   Aspiring game developer and a man of too many interests."
+   (Advance/Advance2112)
+   Aspiring game developer and a man of too many interests.
   location : "Ohio, USA"
   links:
   - label: "GitHub"
