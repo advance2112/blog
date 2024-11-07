@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://advance2112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+logo: "Advance Logo (White) (Small).png"
 github_username:  advance2112
 repository: advance2112/blog
 
@@ -107,7 +108,7 @@ author:
   name     : "Mark West"
   avatar   : "/assets/images/Mark West Photo.jpg"
   bio      : >-
-   (Advance/Advance2112)
+   (Advance/Advance2112)\n
    Aspiring game developer and a man of too many interests.
   location : "Ohio, USA"
   links:
