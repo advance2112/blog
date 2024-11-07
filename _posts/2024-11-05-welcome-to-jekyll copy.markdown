@@ -6,6 +6,12 @@ categories: update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
+Game doe
+<iframe frameborder="0" src="https://itch.io/embed/3043655" width="552" height="167"><a href="https://advance2112.itch.io/sufferer">SUFFER.er by Advance2112</a></iframe>
+
+then more game??
+<iframe frameborder="0" src="https://itch.io/embed-upload/11776254?color=000000" allowfullscreen="" width="1024" height="768"><a href="https://advance2112.itch.io/sufferer">Play SUFFER.er on itch.io</a></iframe>
+
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`

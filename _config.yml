@@ -113,24 +113,34 @@ author:
    Aspiring game developer and a man of too many interests.
   location : "Ohio, USA"
   links:
+  - label: "LinkedIn"
+    icon: "fab fa-brands fa-linkedin"
+    url: "https://www.linkedin.com/in/markdavidwest01/"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/advance2112"
   - label: "itch.io"
     icon: "fab fa-brands fa-itch-io"
     url: "https://advance2112.itch.io"
-    #linkdin
-    #soundcloud
+  - label: "SoundCloud"
+    icon: "fab fa-brands fa-soundcloud"
+    url: "https://soundcloud.com/advance2112"
     #youtube (maybe)
 
 footer:
   links:
+  - label: ""
+    icon: "fab fa-brands fa-linkedin"
+    url: "https://www.linkedin.com/in/markdavidwest01/"
   - label: ""
     icon: "fab fa-fw fa-github"
     url: "https://github.com/advance2112"
   - label: ""
     icon: "fab fa-brands fa-itch-io"
     url: "https://advance2112.itch.io"
+  - label: ""
+    icon: "fab fa-brands fa-soundcloud"
+    url: "https://soundcloud.com/advance2112"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
