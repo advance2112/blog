@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Moon Viewing"
-date:   2024-07-31 04:55:00 -0500
+date:   2024-12-01 12:53:00 -0500
 header:
     image: "/assets/images/MoonViewing/MVCover.png"
     teaser: "/assets/images/MoonViewing/MVCover.png"
@@ -15,8 +15,6 @@ Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have 
 <center><iframe frameborder="0" src="https://itch.io/embed/2855879?bg_color=992d17&amp;fg_color=ffffff&amp;link_color=ff970d&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/moon-viewing">Moon Viewing by Advance2112, DeveloperChipmunk, Cache31522</a></iframe></center>
 
 ---
-
-<br />
 
 [**Moon Viewing**](https://advance2112.itch.io/moon-viewing) was made in two weeks for the [Pirate Software Jam 15](https://itch.io/jam/pirate15). It was made with [DeveloperChipmunk](https://itch.io/profile/developerchipmunk) (a co-worker of mine), [Cache31522](https://itch.io/profile/cache31522) (my brother), and Carl_Wheezer (a friend of my brother). The Jam's theme was "Shadows and Alchemy".
 
