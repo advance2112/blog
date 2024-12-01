@@ -13,8 +13,6 @@ Dear Master Lexorius,
 
 Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have need of your assistance in a most delicate manner...
 
-<center><iframe frameborder="0" src="https://itch.io/embed/2855879?bg_color=992d17&amp;fg_color=ffffff&amp;link_color=ff970d&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/moon-viewing">Moon Viewing by Advance2112, DeveloperChipmunk, Cache31522</a></iframe></center>
-
 ---
 
 [**Moon Viewing**](https://advance2112.itch.io/moon-viewing) was made in two weeks for the [Pirate Software Jam 15](https://itch.io/jam/pirate15). It was made with [DeveloperChipmunk](https://itch.io/profile/developerchipmunk) (a co-worker of mine), [Cache31522](https://itch.io/profile/cache31522) (my brother), and Carl_Wheezer (a friend of my brother). The Jam's theme was "Shadows and Alchemy".
@@ -72,9 +70,7 @@ I took Tuesday off of work because of this, and spent the day (after waking up a
 
 Thankfully, Tuesday night was mostly focused on polish. One of the last things I did for the game was the sounds and, honestly, they are my favorite part of the game. The sound effects are all foley sounds, me messing with hanafuda, pieces of paper, and a wooden block. It was a ton of fun to make, and I think they came out beautifully. Then there was the music. 
 
-I don't claim to be a particularly good musician. My Soundcloud is full of mediocre songs and bad covers. But there is something about the music I made for Moon Viewing that I just love. It's a simple dramatic chord, I couldn't even tell you what the chord is, but I used it everywhere. And the credits song? That same chord, just moved around a bit. In fact the credits song was mostly improvised. Had a few false starts, but it was essentially done in one take which is CRAZY. I don't do that normally. But something about the experience of making this game... that piece just fell out of me and, while it isn't perfect, I think it fits the game perfectly.
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1885985454&color=%23781215&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/advance2112" title="Advance" target="_blank" style="color: #cccccc; text-decoration: none;">Advance</a> · <a href="https://soundcloud.com/advance2112/moon-viewing" title="Moon Viewing" target="_blank" style="color: #cccccc; text-decoration: none;">Moon Viewing</a></div>
+I don't claim to be a particularly good musician. My Soundcloud is full of mediocre songs and bad covers. But there is something about the music I made for Moon Viewing that I just love. It's a simple dramatic chord, I couldn't even tell you what the chord is, but I used it everywhere. And the credits song? That same chord, just moved around a bit. In fact the credits song was mostly improvised. Had a few false starts, but it was essentially done in one take which is CRAZY. I don't do that normally. But something about the experience of making this game... that piece just fell out of me and, while it isn't perfect, I think [it fits the game perfectly](https://soundcloud.com/advance2112/moon-viewing).
 
 ### The End
 
