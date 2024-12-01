@@ -2,7 +2,8 @@
 layout: single
 title:  "Moon Viewing"
 date:   2024-07-31 04:55:00 -0500
-image: "/assets/images/MoonViewing/MVCover.png"
+header:
+    image: "/assets/images/MoonViewing/MVCover.png"
 categories: games
 ---
 
@@ -10,7 +11,7 @@ Dear Master Lexorius,
 
 Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have need of your assistance in a most delicate manner...
 
-<center><iframe frameborder="0" src="https://itch.io/embed/2855879?linkback=true&amp;bg_color=992d17&amp;fg_color=ffffff&amp;link_color=ff970d&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/moon-viewing">Moon Viewing by Advance2112, DeveloperChipmunk, Cache31522</a></iframe></center>
+<center><iframe frameborder="0" src="https://itch.io/embed/2855879?bg_color=992d17&amp;fg_color=ffffff&amp;link_color=ff970d&amp;border_color=333333" width="552" height="167"><a href="https://advance2112.itch.io/moon-viewing">Moon Viewing by Advance2112, DeveloperChipmunk, Cache31522</a></iframe></center>
 
 ---
 
@@ -52,7 +53,7 @@ Carl? One week in and still MIA. We had created the MVP of the game, with each p
 
 I did eventually sit down with him at the start of the second week, and got him to make the cover art for the game and holy shit. It's so good. 
 
-![alt text](/assets/images/MoonViewing/MVCover.png "Title")
+<img src="{{ '/assets/images/MoonViewing/MVCover.png' | relative_url }}" alt="By Carl_Wheezer"><br/>
 
 Clearly amateur, but in a very charming way. The only thing I don't like about is the fact that this is, quite literally, the only piece of art we got out of Carl. The 144 ingredient sprites he was tasked with making never got made, at least not by him.
 
