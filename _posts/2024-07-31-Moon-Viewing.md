@@ -4,6 +4,7 @@ title:  "Moon Viewing"
 date:   2024-07-31 04:55:00 -0500
 header:
     image: "/assets/images/MoonViewing/MVCover.png"
+    teaser: "/assets/images/MoonViewing/MVCover.png"
 categories: games
 ---
 
@@ -17,7 +18,7 @@ Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have 
 
 <br />
 
-**Moon Viewing** was made in two weeks for the [Pirate Software Jam 15](https://itch.io/jam/pirate15). It was made with [DeveloperChipmunk](https://itch.io/profile/developerchipmunk) (a co-worker of mine), [Cache31522](https://itch.io/profile/cache31522) (my brother), and Carl_Wheezer (a friend of my brother). The Jam's theme was "Shadows and Alchemy".
+[**Moon Viewing**](https://advance2112.itch.io/moon-viewing) was made in two weeks for the [Pirate Software Jam 15](https://itch.io/jam/pirate15). It was made with [DeveloperChipmunk](https://itch.io/profile/developerchipmunk) (a co-worker of mine), [Cache31522](https://itch.io/profile/cache31522) (my brother), and Carl_Wheezer (a friend of my brother). The Jam's theme was "Shadows and Alchemy".
 
 ### The Theme
 At first I didn't love this theme, "Shadows and Alchemy". There were other themes offered that I thought were much cooler, like "Dying Planet". I felt this one was a bit too limited, and a good game jam theme needs to be broad, maybe even have multiple meanings to work off of. But then Thor changed my mind as he spoke on how these words can be interpreted: 
@@ -54,7 +55,7 @@ Carl? One week in and still MIA. We had created the MVP of the game, with each p
 I did eventually sit down with him at the start of the second week, and got him to make the cover art for the game and holy shit. It's so good. 
 
 <figure>
-<img src="{{ '/assets/images/MoonViewing/MVCover.png' | relative_url }}" alt="The cover art of Moon Viewing. A scene looking out a window onto a field of chrysanthemums, a bright white full moon, and a red sky. There is a bowl of sake on the window sill."><br/>
+<img src="{{ '/assets/images/MoonViewing/MVCover.png' | relative_url }}" alt="The cover art of Moon Viewing. A scene looking out a window onto a field of chrysanthemums, a bright white full moon, and a red sky. There is a bowl of sake on the window sill.">
 <figcaption>By Carl_Wheezer</figcaption>
 </figure>
 
