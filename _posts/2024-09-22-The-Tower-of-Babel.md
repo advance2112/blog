@@ -4,7 +4,7 @@ title:  "The Tower of Babel"
 date:   2024-09-22 01:20:00 -0500
 last_modified_at: 2024-12-01 12:59:00 -0500
 header:
-    image: "/assets/images/TheTowerOfBabel/Door.png"
+    image: "/assets/images/TheTowerOfBabel/DoorSmall.png"
 categories: games
 ---
 
@@ -48,7 +48,7 @@ Then we learned that wazard had a surprise trip that would take him away for the
 
 I spent a bit of time during the last two days of the jam finalizing some things. Putting the assets Crow had sent in, adding some tutorial text and a main menu, plus creating a fail state. Real basic stuff to just make the game into a game, rather than a tech demo.
 
-Then, a couple hours before the end I upload the game to itch.io and submit. And lo and behold... the text doesn't work for Chinese, Sanskrit, and Korean. And the audio is busted in several different ways. At this point I threw my hands up and say screw it, I don't have the time or energy to fix this. I uploaded the Windows build, which works fine, as a hail mary, in the hopes that at least one person would play that and see what we were going for.
+Then, a couple hours before the end, I upload the game to itch.io and submit. And lo and behold... the text doesn't work for Chinese, Sanskrit, and Korean. And the audio is busted in several different ways. At this point I threw my hands up and say screw it, I don't have the time or energy to fix this. I uploaded the Windows build, which works fine, as a hail mary, in the hopes that at least one person would play that and see what we were going for.
 
 In the end, we did get a lot of good feedback from other folks. Many praised our originality and concept, and some liked the music. The visual elements were panned, and overall... we got 80th place out of around 150 games. Middle of the pack.
 
@@ -59,7 +59,7 @@ In the end, we did get a lot of good feedback from other folks. Many praised our
 
 1. My ideas aren't always the best ideas.
 
-   Yeah, no shit. Every time I think about this project I regret that moment where we chose whose idea we would make. I wish beyond anything it would have been Crow's idea. That would have taken some weight off my shoulders while simultaneously empowering him. And I think, frankly, whatever we made would have been so much cooler than The Tower of Babel. And it's not that I think all my ideas are bad, just that I want to try working off of someone else's idea for a change. Next time I work with other people, I don't want my idea to be the main one.
+   Yeah, no shit. Every time I think about this project, I regret that moment where we chose whose idea we would make. I wish beyond anything it would have been Crow's idea. That would have taken some weight off my shoulders while simultaneously empowering him. And I think, frankly, whatever we made would have been so much cooler than The Tower of Babel. And it's not that I think all my ideas are bad, just that I want to try working off of someone else's idea for a change. Next time I work with other people, I don't want my idea to be the main one.
 
 
 2. Being distracted means you are unmotivated.

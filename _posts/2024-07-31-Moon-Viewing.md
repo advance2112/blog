@@ -109,4 +109,4 @@ Two weeks later, we receive our feedback. And with it comes a boat load of lesso
 
 ### What's Next?
 
-Despite the troubled development, I felt so alive while making this game. The frantic rush to get something done on a timeline, the challenge of creating something so complex, and the satisfaction of finish something... it was amazing. Addicting. I wanted more. More jams, more games, more Godot. So I looked around for some jams and decided to do the September [Godot Wild Jam](https://godotwildjam.com/), for which I made [The Tower of Babel]().
+Despite the troubled development, I felt so alive while making this game. The frantic rush to get something done on a timeline, the challenge of creating something so complex, and the satisfaction of finish something... it was amazing. Addicting. I wanted more. More jams, more games, more Godot. So I looked around for some jams and decided to do the September [Godot Wild Jam](https://godotwildjam.com/), for which I made [The Tower of Babel](https://advance2112.github.io/blog/games/2024/09/22/The-Tower-of-Babel.html).
