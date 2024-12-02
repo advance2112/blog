@@ -76,4 +76,4 @@ In the end, we did get a lot of good feedback from other folks. Many praised our
 
 ### What's Next?
 
-While the game didn't turn out very well, I still made due with it. I still want to make games, but as mentioned I wanted to try my hand at doing it alone. The next GWJ started soon, and I liked how the Jam was run, so it was a natural choice to do the next one as well. And for that I did work alone, and made [SUFFER.er]().
+While the game didn't turn out very well, I still made due with it. I still want to make games, but as mentioned I wanted to try my hand at doing it alone. The next GWJ started soon, and I liked how the Jam was run, so it was a natural choice to do the next one as well. And for that I did work alone, and made [SUFFER.er](https://advance2112.github.io/blog/games/2024/10/20/SUFFER-er.html).

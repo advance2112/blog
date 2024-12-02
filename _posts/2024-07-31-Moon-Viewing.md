@@ -9,8 +9,7 @@ header:
 categories: games
 ---
 
-Dear Master Lexorius,
-
+Dear Master Lexorius,  
 Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have need of your assistance in a most delicate manner...
 
 ---
