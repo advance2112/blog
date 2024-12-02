@@ -4,8 +4,7 @@ title:  "Moon Viewing"
 date:   2024-07-31 04:55:00 -0500
 last_modified_at: 2024-12-01 12:59:00 -0500
 header:
-    image: "/assets/images/MoonViewing/MVCover.png"
-    teaser: "/assets/images/MoonViewing/MVCover.png"
+    image: "/assets/images/MoonViewing/MVCoverThin.png"
 categories: games
 ---
 
