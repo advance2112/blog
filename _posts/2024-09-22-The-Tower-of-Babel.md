@@ -48,6 +48,11 @@ Then we learned that wazard had a surprise trip that would take him away for the
 
 I spent a bit of time during the last two days of the jam finalizing some things. Putting the assets Crow had sent in, adding some tutorial text and a main menu, plus creating a fail state. Real basic stuff to just make the game into a game, rather than a tech demo.
 
+<figure>
+<img src="{{ '/assets/images/TheTowerOfBabel/Gameplay1.png' | relative_url }}" alt="A screen capture of gameplay from The Tower of Babel. There are 21 cards in a grid on the left and a board with 5 empty slots on the right. Each car has a word written on it. Some cards have clearly broken characters that display improperly. In the center is text explaining how to play the game. The gameplay is superimposed on an abstract image of a door.">
+<figcaption>Final gameplay from the web build of The Tower of Babel, broken characters and all.</figcaption>
+</figure>
+
 Then, a couple hours before the end, I upload the game to itch.io and submit. And lo and behold... the text doesn't work for Chinese, Sanskrit, and Korean. And the audio is busted in several different ways. At this point I threw my hands up and say screw it, I don't have the time or energy to fix this. I uploaded the Windows build, which works fine, as a hail mary, in the hopes that at least one person would play that and see what we were going for.
 
 In the end, we did get a lot of good feedback from other folks. Many praised our originality and concept, and some liked the music. The visual elements were panned, and overall... we got 80th place out of around 150 games. Middle of the pack.

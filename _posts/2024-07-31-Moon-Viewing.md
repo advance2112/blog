@@ -75,6 +75,11 @@ I don't claim to be a particularly good musician. My Soundcloud is full of medio
 
 ### The End
 
+<figure>
+<img src="{{ '/assets/images/MoonViewing/Gameplay1.png' | relative_url }}" alt="A screen capture of gameplay from Moon Viewing. There are three documents layed out on a green table, each containing information about hanafuda and decipher recipes. There are also hanafuda laid out on the table, presumably to aid in deciphering.">
+<figcaption>Final gameplay of Moon Viewing, deciphering the first recipe.</figcaption>
+</figure>
+
 I submitted the game at around 4 AM Wednesday morning, 5 hours before it as due. And for all that effort it was but a drop in the bucket of submissions. With around 2400 submissions, it felt incredibly daunting to see all of these other games, and a good number of them were actually decent, certainly better than our game.
 
 Two weeks later, we receive our feedback. And with it comes a boat load of lessons.
