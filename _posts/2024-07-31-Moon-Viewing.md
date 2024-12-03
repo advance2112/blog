@@ -76,7 +76,7 @@ I don't claim to be a particularly good musician. My Soundcloud is full of medio
 ### The End
 
 <figure>
-<img src="{{ '/assets/images/MoonViewing/Gameplay1.png' | relative_url }}" alt="A screen capture of gameplay from Moon Viewing. There are three documents layed out on a green table, each containing information about hanafuda and decipher recipes. There are also hanafuda laid out on the table, presumably to aid in deciphering.">
+<img src="{{ '/assets/images/MoonViewing/Gameplay1.png' | relative_url }}" alt="A screen capture of gameplay from Moon Viewing. There are three documents laid out on a green table, each containing information about hanafuda and decipher recipes. There are also hanafuda laid out on the table, presumably to aid in deciphering.">
 <figcaption>Final gameplay of Moon Viewing, deciphering the first recipe.</figcaption>
 </figure>
 
