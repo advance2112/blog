@@ -23,7 +23,7 @@ name: Mark West
 title-separator: ">"
 email: markdavidwest01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Mark's portfolio and blog! Here you'll find everything he's up to, including (but not limited to) games he makes, music he makes, maybe the occasional review, and all sorts of other fun stuff.
+  A collection of my works and musings.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://advance2112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
