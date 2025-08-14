@@ -2,7 +2,7 @@
 layout: single
 title:  "Moon Viewing"
 date:   2024-07-31 04:55:00 -0500
-last_modified_at: 2024-12-01 12:59:00 -0500
+last_modified_at: 2025-08-14 18:58:00 -0500
 header:
     image: "/assets/images/MoonViewing/MVCoverThin.png"
 categories: games
@@ -16,7 +16,7 @@ Greetings. I am Elias Mordran, student and researcher at Ishtar Academy. I have 
 [**Moon Viewing**](https://advance2112.itch.io/moon-viewing) was made in two weeks for the [Pirate Software Jam 15](https://itch.io/jam/pirate15). It was made with [DeveloperChipmunk](https://itch.io/profile/developerchipmunk) (a co-worker of mine), [Cache31522](https://itch.io/profile/cache31522) (my brother), and Carl_Wheezer (a friend of my brother). The Jam's theme was "Shadows and Alchemy".
 
 ### The Jam
-Having made some smaller games earlier in the year, I had often considered the idea of doing a game jam. I'm not exactly a huge fan of Pirate Software (I like the guy just don't watch too much of his stuff), but was excited by the idea of participating in a large jam. Cache and Chipmunk were also familiar with his stuff, so it seemed like a natural choice for us as first-time jammers.
+Having made some smaller games earlier in the year, I had often considered the idea of doing a game jam. I'm not exactly a huge fan of Pirate Software (I like the guy just don't watch too much of his stuff)*, but was excited by the idea of participating in a large jam. Cache and Chipmunk were also familiar with his stuff, so it seemed like a natural choice for us as first-time jammers.
 
 ### The Theme
 At first I didn't love this theme, "Shadows and Alchemy". There were other themes offered that I thought were much cooler, like "Dying Planet". I felt this one was a bit too limited, and a good game jam theme needs to be broad, maybe even have multiple meanings to work off of. But then Thor changed my mind as he spoke on how these words can be interpreted: 
@@ -113,3 +113,5 @@ Two weeks later, we receive our feedback. And with it comes a boat load of lesso
 ### What's Next?
 
 Despite the troubled development, I felt so alive while making this game. The frantic rush to get something done on a timeline, the challenge of creating something so complex, and the satisfaction of finish something... it was amazing. Addicting. I wanted more. More jams, more games, more Godot. So I looked around for some jams and decided to do the September [Godot Wild Jam](https://godotwildjam.com/), for which I made [The Tower of Babel](https://advance2112.github.io/blog/games/2024/09/22/The-Tower-of-Babel.html).
+
+\*Correction August 14th, 2025: I no longer like the guy. He tries way too hard to be cool and refuses to change his bad opinions. That said, I still value this experience and am thankful to Thor and his community for the opportunity to make this game.
