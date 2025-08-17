@@ -12,7 +12,7 @@ Eat crumb... consume crumb... become crumb...
 
 ---
 
-[Crumbania](https://advance2112.itch.io/crumbania) was made in 9 days for the [Godot Wild Jam #83](https://itch.io/jam/godot-wild-jam-83). The Jam's theme was "CONSUME".
+[**Crumbania**](https://advance2112.itch.io/crumbania) was made in 9 days for the [Godot Wild Jam #83](https://itch.io/jam/godot-wild-jam-83). The Jam's theme was "CONSUME".
 
 ### The Start
 It's been a long, long time, hasn't it? [The last game jam I did](https://advance2112.github.io/blog/games/2024/11/17/LaRtOoD.html) went rather well, so why did it take me nearly 9 months to do another one? Well, four things were going on between LaRtOoD and this game. In this time, I:
@@ -40,7 +40,7 @@ Within just a few minutes of the theme's announcement, I had the idea. It's Vamp
 From here, I thought I'd take the most straightforward approach to the "Twinkle Star" and "Analog" wildcards, namely making there be a bunch of particles whenever you kill an enemy, and drawing everything on paper and scanning it in.
 
 ### The Work, Part 1: The Weekend
-I got to work right away. I tried to recreate as much of the gameplay as I could from memory, choosing not to play any Survivor-like games until the jam was over. I got some simple weapons, enemies, and experience orbs working, and 8 hours into the jam, I had something that vaguely resembles the final game, as well as Vampire Survivors.
+I got to work right away. I tried to recreate as much of the Survivor formula as I could from memory, choosing not to play any Survivor-like games until the jam was over. I got some simple weapons, enemies, and experience orbs working, and 8 hours into the jam, I had something that vaguely resembles the final game, as well as Vampire Survivors.
 
 <figure>
 <img src="{{ '/assets/images/Crumbania/progress1.gif' | relative_url }}" alt="Early Gameplay of Crumbania. A handful of collision shapes with their debug visuals on roam around the screen in a fashion vaguely resembling Vampire Survivors gameplay.">
@@ -68,7 +68,7 @@ I did not finish the game Monday evening. Instead, I continued to polish the gam
 
 Tuesday I spent doing some more polish, like fixing the particle lag by changing them from GPUParticles to CPUParticles (something to do with the Compatibility renderer not liking GPUParticles), fixing some bugs, adding a tutorial and an options menu. By the end of Tuesday, I pretty much knew that the idea of this game being a "weekend game" had long since been thrown out the window. But holy shit... I was having SO much fun making this game. Even the tedious stuff, like menus and UI, I was having a blast doing.
 
-So I kept going. Wednesday, I added a couple of small things, but then I got started on finally solving the performance issues I was seeing. Specifically, I had taken what I call the "naïve" approach to many of the objects in the game. The enemies, player, weapons, crumbs, and the player's "magnet area", are all controlled by an Area2D with a CollisionShape2D. Then they check for either what areas they overlap them or when something enters their area, and all is good. I call it naïve not because it's bad, but rather because it is the first approach most people think of. And 90% of the time, the naïve approach is the correct approach, since it's all you need. But this game falls in that other 10%, since there are hundreds of enemies on screen and tens of thousands of crumbs in play.
+So I kept going. Wednesday, I added a couple of small things, but then I got started on finally solving the performance issues I was seeing. Specifically, I had taken what I call the "naïve" approach to many of the objects in the game. The enemies, player, weapons, crumbs, and the player's "magnet area", are all controlled by an Area2D with a CollisionShape2D. Then they check for either what areas overlap them or when something enters their area, and all is good. I call it naïve not because it's bad, but rather because it is the first approach most people think of. And 90% of the time, the naïve approach is the correct approach, since it's all you need. But this game falls in that other 10%, since there are hundreds of enemies on screen and tens of thousands of crumbs in play.
 
 So how did I get around this? After spending Wednesday and Thursday on it, I can tell you exactly how: [MultimeshInstance2D](https://docs.godotengine.org/en/stable/classes/class_multimeshinstance2d.html). I used these [two](https://www.youtube.com/watch?v=DwMoEdAhtYQ) [tutorials](https://www.youtube.com/watch?v=kKK4yWs3eh4) to stumble my way into something that works reasonably well. I even wrote my first (very simple) shader to make this work, adapting it from both of the shaders shown in the tutorials. The shader simply cuts a sprite out of a sprite sheet based on instance data.
 
@@ -82,7 +82,7 @@ After all of this, I finally managed to get the performance to be reasonable. Ex
 <figcaption>Gameplay from the jam version. It really is Vampire Survivors.</figcaption>
 </figure>
 
-Friday and Saturday, I polished the game up some more. From balancing (which was surprisingly boring to do), to making the menus look like paper, to making a handwritten font with [Calligrapher](https://www.calligraphr.com/), to adding some juice here and there, it all felt very natural at this point. By that I mean that it was getting really easy to slip into "flow state" while working on this game. It was intense, and fun, a bit stressful, but good stressful.
+Friday and Saturday, I polished the game up some more. From balancing (which was surprisingly boring to do), to making the menus look like paper, to making a handwritten font with [Calligraphr](https://www.calligraphr.com/), to adding some juice here and there, it all felt very natural at this point. By that I mean that it was getting really easy to slip into "flow state" while working on this game. It was intense, and fun, a bit stressful, but good stressful.
 
 I tested what I could of the native builds on a few different machines of varying computing power, and was happy with performance overall. I finally had some close family play the game to get some feedback, and they loved it, which felt great to hear. By Sunday, I did manage to get some time to work on a "performance mode" for the web build. I also added a warning/thank you message at the start for the different versions, the web version stating that it is not the intended experience of the game. I finished the game about 3 and a half hours before the end of the jam, and submitted.
 
@@ -123,7 +123,7 @@ As smooth as all this work sounds, I had a lot of shit going on in my personal l
 
 2. Using pre-made assets is a superpower.
 
-   I don't know what I would have done without that music from Abstraction. The songs are great, and they fit in the game so well, it's honestly a miracle. I think I might start doing this more, especially as if I'm working alone.
+   I don't know what I would have done without that music from Abstraction. The songs are great, and they fit in the game so well, it's honestly a miracle. I think I might start doing this more, especially if I'm working alone.
 
 3. I don't need to do post-jam updates for every game.
 
