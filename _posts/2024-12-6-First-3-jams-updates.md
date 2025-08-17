@@ -2,7 +2,7 @@
 layout: single
 title:  "Post-jam Updates: Moon Viewing, The Tower of Babel, and SUFFER.er"
 date:   2024-12-06 03:52:00 -0500
-last_modified_at: 2025-08-14 18:00:00 -0500
+last_modified_at: 2025-08-17 12:44:00 -0500
 categories: games
 ---
 
