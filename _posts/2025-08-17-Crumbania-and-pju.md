@@ -4,7 +4,7 @@ title:  "Crumbania (and Its Post-Jam Update)"
 date:   2025-08-17 12:44:00 -0500
 last_modified_at: 2025-08-17 12:44:00 -0500
 header:
-    image: "/assets/images/Crumbania/logothin.jpg"
+    image: "/assets/images/Crumbania/logothin.png"
 categories: games
 ---
 
