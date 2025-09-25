@@ -138,4 +138,4 @@ As smooth as all this work sounds, I had a lot of shit going on in my personal l
    Crumbania is a goofy silly stupid little game, and I love that. I need to make more of these goofy silly stupid kinds of games. Additionally, I need to stop taking ratings and rankings so seriously. Yes it's a "competition", but it doesn't matter who wins. Everyone who submitted a game is a winner in some way, since they finished the thing they set out to do, which for something like a video game, is an amazing accomplishment.
 
 ### What's Next?
-After such a long development time and still quite a busy personal life, I think I'm going to take a bit of time off. Not too long though. I've got some great momentum, and I want to keep that up. Another jam in September? Possibly.
+After such a long development time and still quite a busy personal life, I think I'm going to take a bit of time off. Not too long though. I've got some great momentum, and I want to keep that up. I deserve a week, at least. Yeah. So about a week later I started working on [The G.N.A.W. Protocol]().
