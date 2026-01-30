@@ -32,7 +32,7 @@ Once it was determined that we were going with my idea, I also became the defact
 
 ### The Work
 
-I spent the first few days gathering languages and concepts, as well as getting the list of `16 x 40 = 640` words in order. That was such a pain. Crow got started on the art, wazard on getting card manipulation working in game. But in between getting things together I also spent some time coaching wazard. Of course, I had done similar things before with [Moon Viewing](https://advance2112.github.io/blog/games/2024/07/31/Moon-Viewing.html) and [Gwent Clone](), so it was natural for me at this point. And in between that, I worked on the music. 
+I spent the first few days gathering languages and concepts, as well as getting the list of `16 x 40 = 640` words in order. That was such a pain. Crow got started on the art, wazard on getting card manipulation working in game. But in between getting things together I also spent some time coaching wazard. Of course, I had done similar things before with [Moon Viewing](https://advance2112.github.io/blog/games/2024/07/31/Moon-Viewing.html) and [Gwent Clone](https://advance2112.github.io/blog/games/2023/10/03/Gwent-Clone.html), so it was natural for me at this point. And in between that, I worked on the music. 
 
 I knew from the start I wanted to do something with a "vox" style to it, where most or all of the instruments were human voices. Fits with the theme, y'know, because you're like... speaking to people? Anyway, I made some vox sound effects with my mouth and lips by going "ooo" and whistling. I didn't love any of the free offerings at my disposal and it's easy enough to make those sounds on my own.
 
@@ -73,7 +73,7 @@ In the end, we did get a lot of good feedback from other folks. Many praised our
 
 3. I should make something that isn't a card game.
    
-   With 3 major projects under my belt ([Moon Viewing](https://advance2112.github.io/blog/games/2024/07/31/Moon-Viewing.html), [Gwent Clone](), and now The Tower of Babel) and ALL THREE are card games. Yeah, I need a change of pace. I love card games, and I have ideas for more, but I can't just make card games. I need to broaden my horizons.
+   With 3 major projects under my belt ([Moon Viewing](https://advance2112.github.io/blog/games/2024/07/31/Moon-Viewing.html), [Gwent Clone](https://advance2112.github.io/blog/games/2023/10/03/Gwent-Clone.html), and now The Tower of Babel) and ALL THREE are card games. Yeah, I need a change of pace. I love card games, and I have ideas for more, but I can't just make card games. I need to broaden my horizons.
 
 4. I should try working alone.
 
