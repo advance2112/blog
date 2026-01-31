@@ -27,7 +27,7 @@ I wouldn't say I was 'busy' in this time, but rather 'occupied' and 'a bit depre
 Come late June, I'm occupying my time with a bunch of games throughout the month, and I'm just feeling a bit burnt out by it all. I was half-assing my work on Hemocoven, and even decided to put it on hold around this time. I told the team something like "my desire to create is really low right now", which was true, but, in retrospect, I think it was moreso my desire to work on Hemocoven was really low. I suspected this, even at the time, and I wanted to test it, and the best way to do that was to work on something other than Hemocoven.
 
 ### The Jam
-I eventually convince myself to make a game, and by then, the next GWJ is just a few days away from starting. So I say to myself: "Fuck it, I'll make a tiny little game, just something simple, a clone of some simple game. I'll make it in a weekend, I'll use pre-made assets or make some simple assets, do whatever I need to do to just shit this game out in like 2 or 3 days. It won't be good, it won't be pretty, but it will be a good test of whether I really do have a low desire to create or if it's just Hemocoven dragging me down." So I join GWJ #83.
+I eventually convince myself to make a game, and by then, the next GWJ is just a few days away from starting. So I say to myself: "Fuck it, I'll make a tiny little game, just something simple, a clone of some simple game. I'll make it in a weekend, I'll use pre-made assets or make some simple assets, do whatever I need to do to just shit this game out in like 2 or 3 days. It won't be good, it won't be pretty, but it will be a good test of whether I really do have a low desire to create or if it's just Hemocoven dragging me down." So I join GWJ#83.
 
 ### The Theme
 CONSUME. Excellent theme. Unlike something like "Reflections" from GWJ #75, "CONSUME" can only be interpreted in a number of ways: consume food, consume media, consume items, and that's pretty much it. But consumerism and food are such large parts of our culture (especially as gamers) that it's hard not to like this theme for the breadth of ideas that can come from it.
@@ -113,7 +113,7 @@ Another big (and probably unnecessary) change was to update the UI. I didn't lik
 <figcaption>I also sped up the player and enemies a bit, based on some feedback.</figcaption>
 </figure>
 
-As smooth as all this work sounds, I had a lot of shit going on in my personal life at the time. I won't go into it all here, but just to give you an idea, I planned on finishing this update before the start of the next GWJ on August 8th, this blogpost included. I didn't wind up finishing until the END of that GWJ, on August 17th. Needless to say, I didn't participate in GWJ #84, but I am itching to make another game soon.
+As smooth as all this work sounds, I had a lot of shit going on in my personal life at the time. I won't go into it all here, but just to give you an idea, I planned on finishing this update before the start of the next GWJ on August 8th, this blogpost included. I didn't wind up finishing until the END of that GWJ, on August 17th. Needless to say, I didn't participate in GWJ#84, but I am itching to make another game soon.
 
 ### The Lessons
 

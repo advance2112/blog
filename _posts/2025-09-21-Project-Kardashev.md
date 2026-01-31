@@ -12,7 +12,7 @@ An idle game about humanity becoming a Type II civilization.
 
 ---
 
-[**Project: Kardashev**](https://cache31522.itch.io/project-kardashev) was made about 4 days for the [Godot Wild Jam #85](https://itch.io/jam/godot-wild-jam-85). The Jam's theme was "Expansion".
+[**Project: Kardashev**](https://cache31522.itch.io/project-kardashev) was made in about 4 days for the [Godot Wild Jam #85](https://itch.io/jam/godot-wild-jam-85). The Jam's theme was "Expansion".
 
 ### The Jam
 
