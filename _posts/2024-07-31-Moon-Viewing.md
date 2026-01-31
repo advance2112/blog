@@ -31,9 +31,9 @@ Chipmunk, Cache, and I chatted as the theme was announced, and we brainstormed t
 
 We chose to use [Godot](https://godotengine.org/) almost instinctively. I had a blast working in it with a previous project (even though that game didn't turn out all that well) and the rest of the team seemed to generally have positive thoughts about the engine. I am happy with our choice, Godot is excellent.
 
-Right off the bat, we made a huge mistake. While the idea for the game existed quite solidly in my head, we didn't take the time to properly write it down. We did not create a game design document (GDD). Not only is a GDD part of the required materials for this jam, I learned about halfway through making this game just how important having this reference would have been. We did, of course, [wind up making one](https://docs.google.com/document/d/1i92TJvi9wwjDn64R0Et_XDKNMPnfLhSI6pd5ewm7WcU/edit?usp=sharing) a couple days before the end of the jam, but it was more a description of what we made rather than plan of what we would make.
+Right off the bat, we made a huge mistake. While the idea for the game existed quite solidly in my head, we didn't take the time to properly write it down. We did not create a game design document (GDD). Not only is a GDD part of the required materials for this jam, I learned about halfway through making this game just how important having this reference would have been. We did, of course, [wind up making one](https://docs.google.com/document/d/1i92TJvi9wwjDn64R0Et_XDKNMPnfLhSI6pd5ewm7WcU/edit?usp=sharing) a couple days before the end of the jam, but it was more a description of what we made rather than a plan of what we would make.
 
-Why did we skip this step? I chalk it up to naivety. My thought at the time was the fact that games, as well as software as a whole, are malleable and prone to continuous change as you make them. Software should be made in an agile way, and having a design which is followed to the letter is not agile, it is the opposite of agile. But the flaw in this thinking is clear to me only after having made Moon Viewing: having no plan risks killing any project, agile or not.
+Why did we skip this step? I chalk it up to naivety. My thought at the time was that games, as well as software as a whole, are malleable and prone to continuous change as you make them. Software should be made in an agile way, and having a design which is followed to the letter is not agile, it is the opposite of agile. But the flaw in this thinking is clear to me only after having made Moon Viewing: having no plan risks killing any project, agile or not.
 
 Thankfully, this project was not dead in the water, despite the lack of a clear plan. It was just that the man with the plan (me) would have to delegate all the work. Oh fun.
 
@@ -80,7 +80,7 @@ I don't claim to be a particularly good musician. My Soundcloud is full of medio
 <figcaption>Final gameplay of Moon Viewing, deciphering the first recipe.</figcaption>
 </figure>
 
-I submitted the game at around 4 AM Wednesday morning, 5 hours before it as due. And for all that effort it was but a drop in the bucket of submissions. With around 2400 submissions, it felt incredibly daunting to see all of these other games, and a good number of them were actually decent, certainly better than our game.
+I submitted the game at around 4 AM Wednesday morning, 5 hours before it was due. And for all that effort it was but a drop in the bucket of submissions. With around 2400 submissions, it felt incredibly daunting to see all of these other games, and a good number of them were actually decent, certainly better than our game.
 
 Two weeks later, we receive our feedback. And with it comes a boat load of lessons.
 

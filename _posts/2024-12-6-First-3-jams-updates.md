@@ -51,4 +51,4 @@ After giving up on controller support, I looked around for anything I could fix 
 ### What's Next?
 Did you catch the common theme with these updates? They are rushed, I only did things that were easy to do or were major issues that deserved the time. It's almost as if I have something I'd rather be doing, and the truth is that I do. I have an idea that's been brewing in my head since June, and I want to finally make it. I saw these updates as getting in the way of that. Although, I think if I didn't have this idea, I likely wouldn't have spent too much longer on these updates. I'm happy with where they are now, so I'm off to make my next game.
 
-Or at least that was the idea. Instead I stumbled my way into making [Crumbania](https://advance2112.github.io/blog/games/2025/08/14/Crumbania-and-pju.html) some 8 months later.
+Or at least that was the idea. Instead I stumbled my way into making [Crumbania](https://advance2112.github.io/blog/games/2025/08/17/Crumbania-and-pju.html) some 8 months later.
