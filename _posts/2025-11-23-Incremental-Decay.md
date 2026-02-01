@@ -4,7 +4,7 @@ title:  "Incremental Decay"
 date:   2025-11-23 15:01:00 -0500
 last_modified_at: 2026-01-31 21:36:00 -0500
 header:
-    image: "/assets/images/ProjectKardashev/Earthstrip.png"
+    image: "/assets/images/IncrementalDecay/buildings.png"
 categories: games
 ---
 
@@ -88,4 +88,4 @@ As for other people's games, I didn't get a chance to play too many, only 8, but
    Incremental Decay is, I think, pretty well balanced for what it is. It's a relatively short incremental game, but the progression is smooth and satisfying. As nice as all of that is, it just simply didn't perform well, and it's no surprise. The game is balanced, but it isn't fun to interact with. If I could go back and make this game again, I would have focused much less on balance and much more on the visuals and the juice.
 
 ### What's Next?
-Shortly after finishing this game, I returned to work, and was feeling pretty much fully recovered from my surgery. With Thanksgiving and end-of-year Holidays coming up, I wasn't going to commit myself to anything major. Plus, there was still a good chunk of work that needed done around my apartment, mainly sorting and putting away my books, records, tapes, and CDs. I told myself that I'd pick things back up in the new year, if I felt up to it, and come January, I did, and made [ROGUE QUOTES]().
+Shortly after finishing this game, I returned to work, and was feeling pretty much fully recovered from my surgery. With Thanksgiving and end-of-year Holidays coming up, I wasn't going to commit myself to anything major. Plus, there was still a good chunk of work that needed done around my apartment, mainly sorting and putting away my books, records, tapes, and CDs. I told myself that I'd pick things back up in the new year, if I felt up to it, and come January, I did, and made [ROGUE QUOTES](https://advance2112.github.io/blog/games/2026/01/18/ROGUE-QUOTES.html).
