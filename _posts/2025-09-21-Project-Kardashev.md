@@ -58,12 +58,12 @@ Once Cache and I discovered this, we immediately went into planning mode again, 
 
 ### The Lessons
 
-1. Using pre-made assets is awesome
+1. Using pre-made assets is awesome.
 
    I wrote something similar for [Crumbania](https://advance2112.github.io/blog/games/2025/08/17/Crumbania-and-pju.html): "Using pre-made assets is a superpower", but we kind of took that idea and ran with it. Literally nothing in this game that you see or hear was made specifically for this game, aside from how it is all laid out. This level of pre-made asset use and re-use really only works for certain kinds of games, but when it works, it can work really, really well.
 
 
-1. Don't chase the bag
+1. Don't chase the bag.
 
    Never chase the bag. Never let money be your boss. The concept of having to hustle and make money every waking moment of your life is a capitalist lie to keep you unsatisfied and unhappy. Have fun, be free, seize the means of production, yadda yadda, you get it.
 
