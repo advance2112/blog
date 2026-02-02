@@ -2,9 +2,9 @@
 layout: single
 title:  "ROGUE QUOTES"
 date:   2026-01-18 15:25:00 -0500
-last_modified_at: 2026-01-31 21:36:00 -0500
+last_modified_at: 2026-02-02 14:38:00 -0500
 header:
-    image: "/assets/images/ROGUEQUOTES/titlestripanimated.png"
+    image: "/assets/images/ROGUEQUOTES/titlestripanimated.gif"
 categories: games
 ---
 
@@ -25,14 +25,14 @@ So, with December being busy with holidays, I waited until January to do the nex
 "Repurposed" is pretty mild as themes go. While there are lots of ways something can be repurposed, many of those things are described better by a different word. Recycling comes to mind, in particular "upcycling". But, also just reusing things in general. Reselling, retooling, rewiring, rewriting, etc. It's fine, but a little too broad, if you ask me. I think "recycled" would have been a better theme.
 
 ### The Plan
-I actually had a ton of ideas for this jam. At first, I was focused on a plastic recycling factory game, like [Factorio](https://store.steampowered.com/app/427520/Factorio/). Then something a bit simpler, like an idle game where you collect and grind up plastic. Perhaps you could just sort trash, and pick out the things that can be reused/recycled/resold? Or what about a game where you reclaim the land that was once used for a landfill? Uh... a rogue-like deck builder where you repurpose old game board pieces and a ripped up deck of cards?
+I actually had a ton of ideas for this jam. At first, I was focused on a plastic recycling factory game, like [Factorio](https://store.steampowered.com/app/427520/Factorio/). Then something a bit simpler, like an idle game where you collect and grind up plastic. Perhaps you could just sort trash, and pick out the things that can be reused/recycled/resold? Or what about a game where you reclaim the land that was once used for a landfill? Uh... a rogue-like deck builder where you repurpose old board game pieces and a ripped up deck of cards?
 
 None of these were really sticking in my mind. They all seemed either too complex to do in in the time given, or didn't have enough opportunity for juice. However, there was one I wrote down: "reusing letters to spell something". But letters from what? What has letters?
 
 Thus the idea was born: take the letters from a famous quote, and "repurpose" them into new words. It would be like Scrabble and [Balatro](https://store.steampowered.com/app/2379780/Balatro/), and each letter would be worth some amount of points, and they would score individually, and... you get the picture. It's perfect. It's gameplay light, relatively simple to make, and there is tons of opportunity for juice.
 
 ### The Work
-I started with something I knew would be a challenge for a word-entry type game: gathering a list of valid words. I used [this list](https://github.com/dwyl/english-words), and filtered profanity with [this list](https://huggingface.co/datasets/PeterGraebner/LDNOOBW_V2). I later found out that this naughty words list is a bit too aggressive, filtering words like "lop" and "food", so I wound up having to review the list myself and take out many of these overly-safe words.
+I started with something I knew would be a challenge for a word-entry/typing game: gathering a list of valid English words. I used [this list](https://github.com/dwyl/english-words), and filtered profanity with [this list](https://huggingface.co/datasets/PeterGraebner/LDNOOBW_V2). I later found out that this profanity list is a bit too aggressive, filtering words like "lop" and "food", so I wound up having to revise the list manually and take out many of these actually safe words.
 
 From here, I made a simple word entry system, just a TextEdit and checking if the word is in the word list. Then I added the quote system, a display for the quote, plus a keyboard display that tells you how many of each letter is left. And, of course, I got started on the juice, making each letter do a little animation as it scores. It still looked very plain at the time, but the bones of the final game were already there by Monday night.
 
@@ -41,11 +41,11 @@ From here, I made a simple word entry system, just a TextEdit and checking if th
 <figcaption>Balatro who?</figcaption>
 </figure>
 
-I think it was around this time that I was getting two conflicting feelings. One was that I was definitely going to finish this game, no matter what. That point of no return had been reached, and not all projects reach that point. But, also, I felt that I knew this game was not going to be very interesting from a gameplay perspective. I basically already had the final gameplay finished already, and, I won't lie, it wasn't very fun. The main gameplay loop is just: "Think of a long word. Don't have enough letters for it? Try a different long word." It's more of a vocabulary test than anything tricky.
+I think it was around this time that I started getting some conflicting feelings. On the one hand, I was sure I was definitely going to finish this game, no matter what. That point of no return had been reached, and not all projects reach that point. But, on the other hand, I felt that I knew this game was not going to be very interesting from a gameplay perspective. I more or less had the final gameplay finished already, and, I won't lie, it wasn't very fun. The main gameplay loop is just: "Think of a long word. Don't have enough letters for it? Try a different long word." It's more of a vocabulary test than anything tricky.
 
 Either way, since I knew I was likely to finish the game, I decided to double down on that fact and get someone else involved. I reached out to my long-time collaborator and friend [Quenched Disorder](https://quencheddisorder.itch.io/) and asked him to make a track for this game, to which he graciously agreed.
 
-I plugged away at the game, deciding that it was time to get some juice going. I reused some code and some lessons learned from a previous project, an unreleased game I started working on nearly a year prior, to make the letter tiles more responsive. They now jiggle and shake and fly across the screen in a satisfying way.
+I plugged away at the game, deciding that it was time to really get the juice flowing. I reused some code and some lessons learned from a previous project, an unreleased game I started working on nearly a year prior, to make the letter tiles more responsive. They now jiggle and shake and fly across the screen in a satisfying way.
 
 <figure>
 <img src="{{ '/assets/images/ROGUEQUOTES/gameplay1.gif' | relative_url }}" alt="Very similar to the first GIF, but now instead of a TextEdit, typed letters fly up from the keyboard to their place in the word. The word &quot;QUEEN&quot; is typed, entered, and scored. Other gibberish words are typed to demonstrate the functionality. The quote is now one by Winston Churchill.">
@@ -54,7 +54,8 @@ I plugged away at the game, deciding that it was time to get some juice going. I
 
 Then I started on sound effects. Just as with previous games for which I've done sound effects, I went with foley sounds. Poker chips, a glass of water, a hand fart, a water bottle, and kitchen utensils make up all the sounds in the game. As fun as recording the sounds was, I'm realizing that one of my least favorite things to do during a jam is the post-processing on sounds, in particular, isolating each sound from the recording. But, I got it done, and put them in the game, reusing the sound effects code I wrote for [Crumbania](https://advance2112.github.io/blog/games/2025/08/17/Crumbania-and-pju.html).
 
-Despite having a bit over 48 hours left in the jam at this point, I finally got started on actually making the game, you know, a game. I added a round system, a failure state, and items. I took inspiration for the item framework from [this video](https://www.youtube.com/watch?v=vADoiFE_Zvc) (source in the description) and implemented that. I also added the [Balatro paint swirl effect](https://godotshaders.com/shader/balatro-paint-mix/) to the background, attempting to make it look at least somewhat distinct from Balatro.
+Despite having a bit over 48 hours left in the jam at this point, I finally got started on actually making the game, you know, a game. I added a round system, a failure state, and items. I took inspiration for the item framework from [this video](https://www.youtube.com/watch?v=vADoiFE_Zvc) (source in the description) and implemented that. I also added the [Balatro paint swirl effect](https://godotshaders.com/shader/balatro-paint-mix/) to the background, and tweaked some settings to make it look at least somewhat distinct from Balatro.
+
 
 It was at this point that I realized how much of a mess my code was, considering that this item code is some of the "cleanest" in the game. There are lots of things referencing things in ways that they probably shouldn't. This culminated in me having to migrate the entire GameManager script from being a global singleton to being attached to the game scene, which was a big pain. But, once it was done, it made adding a main menu trivial, since I just had to do a simple scene switch. I also finally tested the web build around this time and... yeah it was broken, it wasn't reading the word data correctly. So, I put in a quick workaround there (just made the words defined in their own GDScript global).
 

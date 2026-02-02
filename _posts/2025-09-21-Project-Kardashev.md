@@ -2,7 +2,7 @@
 layout: single
 title:  "Project: Kardashev"
 date:   2025-09-21 15:42:00 -0500
-last_modified_at: 2026-01-31 21:36:00 -0500
+last_modified_at: 2026-02-02 14:38:00 -0500
 header:
     image: "/assets/images/ProjectKardashev/Earthstrip.png"
 categories: games

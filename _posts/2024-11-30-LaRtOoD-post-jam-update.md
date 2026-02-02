@@ -2,7 +2,7 @@
 layout: single
 title:  "Post-jam Update: Lapis and Rhubarb: The Orb of Doom"
 date:   2024-11-30 03:52:00 -0500
-last_modified_at: 2024-12-03 18:00:00 -0500
+last_modified_at: 2026-02-02 14:38:00 -0500
 header:
     image: "/assets/images/lartood/lartoodCoverThin2.png"
 categories: games

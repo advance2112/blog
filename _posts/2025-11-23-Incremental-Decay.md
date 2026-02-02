@@ -2,7 +2,7 @@
 layout: single
 title:  "Incremental Decay"
 date:   2025-11-23 15:01:00 -0500
-last_modified_at: 2026-01-31 21:36:00 -0500
+last_modified_at: 2026-02-02 14:38:00 -0500
 header:
     image: "/assets/images/IncrementalDecay/buildings.png"
 categories: games
