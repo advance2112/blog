@@ -29,7 +29,7 @@ The changes include:
 All of these things took me an afternoon to make, meaning it was relatively in the realm of possibility for me to have made these improvements during the jam. I would have also liked to juice up the game a bit, adding some dynamic shadow effects and more responsive UI and whatnot. But I didn't have the patience for it, not for this game at least. In fact, I had so little patience for this game, I didn't even play it sincerely while making this post-jam update. Actually, I still have never sincerely played this game, and I probably never will. And the reason for this is that the game is just really, really boring. There is nothing I can do about that unless I spent another two weeks fixing the game, time I'd rather spend on a different and better idea.
 
 ### The Tower of Babel
-The Tower of Babel, while certainly more fun that Moon Viewing, also has its fair share of problems. In fact, there are some very glaring issues with the web build of the game, so this update was mainly focused on fixing those.
+The Tower of Babel, while certainly more fun than Moon Viewing, also has its fair share of problems. In fact, there are some very glaring issues with the web build of the game, so this update was mainly focused on fixing those.
 
 The changes include:
 
