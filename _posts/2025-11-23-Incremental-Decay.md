@@ -23,7 +23,7 @@ Between finishing [Project: Kardashev](https://advance2112.github.io/blog/games/
 4. I had my gallbladder removed,
 5. I had the worst comedown from medication (opioids) I've ever had,
 6. I played Skyrim for like the 20th time, and
-7. I house sat for some friends who were out of town. Twice.
+7. I house-sat for some friends who were out of town. Twice.
 
 So, needless to say, I was having a rough time of it. But, that said, I was getting bored of Skyrim and needed a pick-me-up. What better thing to do than to make a game?
 
