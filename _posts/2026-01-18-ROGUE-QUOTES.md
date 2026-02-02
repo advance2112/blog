@@ -63,7 +63,6 @@ It's now the morning of the final day, just 6 short hours left in the jam, time 
 
 <figure>
 <img src="{{ '/assets/images/ROGUEQUOTES/gameplay4.gif' | relative_url }}" alt="Starts on the main menu, which reads &quot;ROGUE QUOTES&quot; and has three difficulty options. The player selects &quot;Normal&quot; and starts playing, typing &quot;WESTERNER&quot;, &quot;LIMINAL&quot;, and &quot;TEETHE&quot;. There is a swirling purple and white background. The letter tiles slide around the screen satisfyingly. There is a timer counting down. The quote is the famous &quot;I have a dream...&quot; quote from Martin Luther King Jr.">
-<figcaption>Scrabble who?</figcaption>
 </figure>
 
 ### The Results
