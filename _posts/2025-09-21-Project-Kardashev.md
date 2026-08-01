@@ -45,7 +45,7 @@ Of course, this was Cache's game, and he had full rights to veto any decision of
 I had yet to finish implementing all the visuals, so I spent the last day polishing those up, including getting the Dyson Swarm Parts looking clean (which took some doing). After that, we put the game up, I made up some stuff for the itch page, and we were done. In just 4 days, we managed to make a game with some incredibly immaculate vibes.
 
 <figure>
-<img src="{{ '/assets/images/ProjectKardashev/gameplay.png' | relative_url }}" alt="Final gameplay of Project: Kardashev. A Windows 98-style retro UI has a number of panels within it, labeled &quot;Planets&quot;, &quot;Resources&quot;, &quot;Buildings&quot;, and &quot;Currently Viewing: Mars&quot;. In the &quot;Currently Viewing: Mars&quot; panel, there is a depiction of the planet Mars floating in space. The other panels contain game information, such as how much Power and Materials the player has, how much it costs to buy the next buildings, and how much it costs to unlock the next planet. There is a CRT effect over the screen.">
+<img src="{{ '/assets/images/ProjectKardashev/gameplay1.png' | relative_url }}" alt="Final gameplay of Project: Kardashev. A Windows 98-style retro UI has a number of panels within it, labeled &quot;Planets&quot;, &quot;Resources&quot;, &quot;Buildings&quot;, and &quot;Currently Viewing: Mars&quot;. In the &quot;Currently Viewing: Mars&quot; panel, there is a depiction of the planet Mars floating in space. The other panels contain game information, such as how much Power and Materials the player has, how much it costs to buy the next buildings, and how much it costs to unlock the next planet. There is a CRT effect over the screen.">
 <figcaption>Vibes.</figcaption>
 </figure>
 
